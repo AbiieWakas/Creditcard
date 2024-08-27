@@ -1,3 +1,13 @@
+**Name:** S. ABIIE WAKAS
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT08DS6145
+
+**Domain:** MACHINE LEARNING
+
+**Duration:** AUG TO SEPT 2024
+
 # Credit Card Fraud Detection
 
 This project focuses on detecting fraudulent credit card transactions using a machine learning model. The dataset used is highly imbalanced, with a small percentage of transactions being fraudulent. To address this, we employed under-sampling to balance the dataset before training a logistic regression model.
