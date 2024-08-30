@@ -72,3 +72,7 @@ To run this project locally, follow these steps:
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+## Output
+![WhatsApp Image 2024-08-30 at 20 11 06_d0d920bd](https://github.com/user-attachments/assets/74fc49e1-1198-4448-8009-e2376b9bb608)
+
