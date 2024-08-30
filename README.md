@@ -8,6 +8,9 @@
 
 **Duration:** AUG TO SEPT 2024
 
+**Mentor Name:** MUZAMMIL AHMED
+
+
 # Credit Card Fraud Detection
 
 This project focuses on detecting fraudulent credit card transactions using a machine learning model. The dataset used is highly imbalanced, with a small percentage of transactions being fraudulent. To address this, we employed under-sampling to balance the dataset before training a logistic regression model.
